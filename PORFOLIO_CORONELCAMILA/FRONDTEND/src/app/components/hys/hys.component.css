@@ -1,0 +1,14 @@
+div{
+    background-color: aquamarine;
+    display: inline-block;
+    
+}
+.row{
+    width: 400px;
+    height: 150px;
+    display: inline-block;
+    background-color: #7fffd4;
+    background-attachment: fixed;
+background-size: cover;
+
+}
